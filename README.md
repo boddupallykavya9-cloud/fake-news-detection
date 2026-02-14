@@ -15,7 +15,7 @@ This project covers the complete ML lifecycle:
 ## 🚀 Live Demo
 
 🎥 Watch Demo Video:  
-[Click here to watch](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Click here to watch](https://drive.google.com/file/d/1qY-p22dJrimkbK7bF3-Sn61tf7kcjAKG/view?usp=sharing))
 
 ---
 
@@ -126,12 +126,8 @@ Secret laboratory created invisible technology to control human minds.
 - Add news source credibility scoring
 
 ### 👩‍💻 Author
-Renuka
 Boddupally Kavya
 
 ---
 
-# 🔥 Important
 
-
-PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE
